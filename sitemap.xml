@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/decapitated/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/decapitated/reference/chrome_connect.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/decapitated/reference/chrome_dump_pdf.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/decapitated/reference/chrome_read_html.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/decapitated/reference/chrome_shot.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/decapitated/reference/chrome_version.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/decapitated/reference/decapitate.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/decapitated/reference/decapitated.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/decapitated/reference/instrument.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/decapitated/reference/ws_poll.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/decapitated/reference/ws_url.html</loc>
+  </url>
+</urlset>

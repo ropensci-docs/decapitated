@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "6e1c092037e671e0a4db872b0be37ed9ef96f9db",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2018-06-07 15:12:03",
+    "files": 1,
+    "merge": false,
+    "message": "Update GitHub links"
+  },
+  "remote": "https://github.com/ropenscilabs/decapitated",
+  "pkg": "decapitated"
+}
